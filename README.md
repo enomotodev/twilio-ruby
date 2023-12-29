@@ -25,6 +25,7 @@ This library supports the following Ruby implementations:
 * Ruby 3.0
 * Ruby 3.1
 * Ruby 3.2
+* Ruby 3.3
 
 * JRuby 9.2
 * JRuby 9.3
